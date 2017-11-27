@@ -1,0 +1,42 @@
+{
+  "title": "lolicoin.edisonlee55.com",
+  "name": "lolicoin.edisonlee55.com",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://lolicoin.edisonlee55.com",
+  "bugs": {
+    "url": "https://github.com/edisonlee55/lolicoin.edisonlee55.com/issues",
+    "email": "edisonlee@edisonlee55.com"
+  },
+  "license": "MIT",
+  "author": "Edison Lee",
+  "contributors": [
+    "Edison Lee (https://www.edisonlee55.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edisonlee55/lolicoin.edisonlee55.com.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "4.7.0",
+    "jquery": "^3.2.1",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.0",
+    "gulp-header": "1.8.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
